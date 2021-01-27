@@ -1,6 +1,5 @@
-package test2;
+package test1;
 
-import test2.Holoman;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

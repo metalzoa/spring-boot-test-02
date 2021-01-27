@@ -1,5 +1,6 @@
-package test2;
-
+package test1;
+// 패키지 명을 test1 으로 반드시 맞춰야 한다
+// 안그러면 spring-boot-test-01 Application 실행시 오류 발생
 public class Holoman {
     String name;
     int howLong;

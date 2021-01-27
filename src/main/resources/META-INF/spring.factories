@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  test2.HolomanConfiguration
+  test1.HolomanConfiguration
